@@ -11,7 +11,7 @@
 ## Python
 | Project | Description |
 | --- | --- |
-| [`Analyze Your Runkeeper Fitness Data`](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/Analyze%20Runkeeper%20Fitness%20Data) | Import, clean, and analyze seven years worth of training data tracked on the Runkeeper app. |
+| [Analyze Your Runkeeper Fitness Data](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/Analyze%20Runkeeper%20Fitness%20Data) | Import, clean, and analyze seven years worth of training data tracked on the Runkeeper app. |
 | [`Classify Song Genres from Audio Data` ](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/Classify%20Song%20Genres%20from%20Audio%20Data)| Rock or rap? Apply machine learning methods in Python to classify songs into genres. |
 | [`Predicting Credit Card Approvals`](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/Predicting%20Credit%20Card%20Approvals) | Build a machine learning model to predict if a credit card application will get approved. |
 | [`Recreating John Snow's Ghost Map`](https://github.com/Tanmay-Jain/John-Snow-s-Ghost-Map) | Recreate John Snow's famous map of the 1854 cholera outbreak in London. |
