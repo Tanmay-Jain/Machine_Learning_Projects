@@ -19,4 +19,8 @@
 | [The GitHub History of the Scala Language?](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/The%20GitHub%20History%20of%20the%20Scala%20Language) | Find the true Scala experts by exploring its development history in Git and GitHub. |
 | [Which Debts Are Worth the Bank's Effort?](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/Which%20Debts%20Are%20Worth%20the%20Bank's%20Effort%3F) | Play bank data scientist and use regression discontinuity to see which debts are worth collecting. |
 | [Word Frequency in Moby Dick](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/Frequency%20of%20Words%20in%20Novels) | Build a machine learning classifier that knows whether President Trump or Prime Minister Trudeau is tweeting! |
+
+## SQL
+| Project | Description |
+| --- | --- |
 | [Analyze Internatoinal Debt Statistics](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/Analyze%20International%20Debt%20Statistics)| Import, clean, and analyze international debt data collected by The World Bank. |
