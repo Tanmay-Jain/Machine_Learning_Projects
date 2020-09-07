@@ -25,3 +25,8 @@
 | Project | Description |
 | --- | --- |
 | [Analyze Internatoinal Debt Statistics](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/Analyze%20International%20Debt%20Statistics)| Import, clean, and analyze international debt data collected by The World Bank. |
+
+## R
+| Project | Description |
+| --- | --- |
+| [What Your Heart Rate Is Telling You](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/What%20Your%20Heart%20Rate%20Is%20Telling%20You)|Examine the relationship between the maximum heart rate one can achieve during exercise and the likelihood of developing heart disease using multiple logistic regression. Data explorations with ggplot2 and dplyr. |
