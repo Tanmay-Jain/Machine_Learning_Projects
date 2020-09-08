@@ -29,4 +29,4 @@
 ## R
 | Project | Description |
 | --- | --- |
-| [What Your Heart Rate Is Telling You](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/What%20Your%20Heart%20Rate%20Is%20Telling%20You)|Examine the relationship between the maximum heart rate one can achieve during exercise and the likelihood of developing heart disease using multiple logistic regression. Data explorations with ggplot2 and dplyr. |
+| [What Your Heart Rate Is Telling You](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/What%20Your%20Heart%20Rate%20Is%20Telling%20You)|<p align="justify"> Examine the relationship between the maximum heart rate one can achieve during exercise and the likelihood of developing heart disease using multiple logistic regression. Data explorations with ggplot2 and dplyr.</p> |
