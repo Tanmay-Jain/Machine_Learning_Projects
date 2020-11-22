@@ -22,7 +22,7 @@
 | [Generating Keywords for Google Ads](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/Generating%20Keywords%20for%20Google%20Ads) |<p align="justify">Creating a prototype set of keywords for search campaigns. Structuring a search engine marketing account.</p> |
 | [A Network Analysis of Game of Thrones](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/A%20Network%20Analysis%20of%20Game%20of%20Thrones) |<p align="justify">Creating a prototype set of keywords for search campaigns. Structuring a search engine marketing account.</p> |
 | [Analyzing TV Data](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/Analyzing%20TV%20Data) |<p align="justify">Creating a prototype set of keywords for search campaigns. Structuring a search engine marketing account.</p> |
-
+| [Real-time Insights from Social Media Data](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/Real-time%20Insights%20from%20Social%20Media%20Data) |<p align="justify">Creating a prototype set of keywords for search campaigns. Structuring a search engine marketing account.</p> |
 
 
 
