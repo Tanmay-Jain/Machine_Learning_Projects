@@ -1,5 +1,9 @@
 # Machine_Learning_Projects
-
+| Project                  | Description                                                                                                                                                                                                     |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Churn Prediction](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/Churn%20Prediction)| <p align="justify"> Developed model in Python for the telecom sector to target specific attributes to reduce churn significantly using random forest, gradient boosting classifiers and multiple other machine learning algorithms. |
+| Housing Price Prediction |                                                                                                                                                                                                                 |
+| Customer Segmentation    |                                                                                                                                                                                                                 |
 
 
 # DataCamp Projects
