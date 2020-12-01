@@ -1,5 +1,9 @@
 # Machine_Learning_Projects
-
+| Project                  | Description                                                                                                                                                                                                     |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Churn Prediction](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/Churn%20Prediction)| <p align="justify"> Developed model in Python for the telecom sector to target specific attributes to reduce churn significantly using random forest, gradient boosting classifiers and multiple other machine learning algorithms. |
+| [Housing Price Prediction](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/Housing_Price_Prediction)| <p align="justify"> This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.. |                                                                                                                                                                                                         |
+| Customer Segmentation    |                                                                                                                                                                                                                 |
 
 
 # DataCamp Projects
@@ -20,6 +24,13 @@
 | [Which Debts Are Worth the Bank's Effort?](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/Which%20Debts%20Are%20Worth%20the%20Bank's%20Effort%3F) |<p align="justify"> Play bank data scientist and use regression discontinuity to see which debts are worth collecting.</p>|
 | [Word Frequency in Moby Dick](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/Frequency%20of%20Words%20in%20Novels) |<p align="justify"> Build a machine learning classifier that knows whether President Trump or Prime Minister Trudeau is tweeting!</p>|
 | [Generating Keywords for Google Ads](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/Generating%20Keywords%20for%20Google%20Ads) |<p align="justify">Creating a prototype set of keywords for search campaigns. Structuring a search engine marketing account.</p> |
+| [A Network Analysis of Game of Thrones](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/A%20Network%20Analysis%20of%20Game%20of%20Thrones) |<p align="justify">Creating a prototype set of keywords for search campaigns. Structuring a search engine marketing account.</p> |
+| [Analyzing TV Data](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/Analyzing%20TV%20Data) |<p align="justify">Creating a prototype set of keywords for search campaigns. Structuring a search engine marketing account.</p> |
+| [Real-time Insights from Social Media Data](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/Real-time%20Insights%20from%20Social%20Media%20Data) |<p align="justify">Creating a prototype set of keywords for search campaigns. Structuring a search engine marketing account.</p> |
+| [Find Movie Similarity from Plot Summaries](https://github.com/Tanmay-Jain/Machine_Learning_Projects/tree/master/Find%20Movie%20Similarity%20from%20Plot%20Summaries) |<p align="justify">Creating a prototype set of keywords for search campaigns. Structuring a search engine marketing account.</p> |
+
+
+
 
 ## SQL
 | Project | Description |
